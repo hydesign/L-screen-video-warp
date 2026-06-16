@@ -1,0 +1,10 @@
+name: curved-screen-warp
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - pip
+  - numpy>=1.24
+  - opencv
+  - pip:
+      - imageio-ffmpeg>=0.4.9

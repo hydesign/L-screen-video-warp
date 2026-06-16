@@ -1,0 +1,7 @@
+# Curved Screen Warp Tool Dependencies
+# Install with:
+#   python -m pip install -r requirements.txt
+
+opencv-python>=4.9.0
+numpy>=1.24.0
+imageio-ffmpeg>=0.4.9
