@@ -2,8 +2,6 @@
 # u  will get the .json after doing this 
 
 
-python 
-
 import bpy
 import json
 import os
